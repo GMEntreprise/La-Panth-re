@@ -1665,6 +1665,7 @@ mark {
 
 .text-center {
   text-align: center;
+  font-size: 18px;
 }
 
 .text-justify {

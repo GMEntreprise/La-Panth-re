@@ -577,7 +577,8 @@ input[type="email"] {
 input[type="submit"] {
   width: 100%;
   background: #f3976c;
-  color: white;
+  color: #000;
+  font-weight: 900;
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
@@ -586,6 +587,7 @@ input[type="submit"] {
 }
 input[type="submit"]:hover {
   background-color: #c27956;
+  color: #fff;
 }
 
 .form-group {
@@ -771,8 +773,10 @@ a {
 }
 
 h2 {
-  font-size: 22px;
+  font-size: 28px;
+  font-weight: 700;
   line-height: 1.4em;
+  color: #000;
 }
 
 h3 {
