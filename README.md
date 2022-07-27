@@ -1,6 +1,6 @@
 # Projet n°4 - Parcours Développeur Web - OpenClassrooms
 
-## [Retrouvez le site complet ici.] gmentreprise.github.io/la-panthere/
+## gmentreprise.github.io/la-panthere/
 
 #### Technologies utilisées
 
