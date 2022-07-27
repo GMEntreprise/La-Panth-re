@@ -987,6 +987,9 @@ h4 {
   .hero-bloc-text {
     font-size: 30px;
   }
+  .tc-be {
+    font-size: 18px;
+  }
 
   .b-parallax {
     background-attachment: scroll;
