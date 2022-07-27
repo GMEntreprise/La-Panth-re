@@ -711,7 +711,13 @@ a {
   font-weight: 400;
   /* color: #575757 !important; */
 }
-
+.coord {
+  font-size: 20px;
+  font-weight: bold;
+}
+.coord-1 {
+  font-size: 18px;
+}
 .container {
   max-width: 1000px;
 }
